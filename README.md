@@ -1,6 +1,9 @@
 # University-Enrolment-
 COMP3005
 
+Video Link:
+https://youtu.be/LAc3L8F1M48
+
 Setup Instructions
 
 Prerequisites
@@ -19,3 +22,5 @@ If you're using an IDE like VS Code IntelliJ IDEA, you can build the project thr
 For command line compilation, navigate to the project directory and run:
 javac -cp path/to/postgresql-jdbc.jar;. *.java
 java -cp path/to/postgresql-jdbc.jar;.StudentDatabaseOperations
+
+
